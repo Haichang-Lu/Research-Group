@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Haichang Lu Research Group # Website name
+title: Lu's Group # Website name
 baseURL: 'https://haichang-lu.github.io/Haichang-Lu-research-website/' # Website URL
 
 ############################
