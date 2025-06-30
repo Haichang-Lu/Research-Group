@@ -9,7 +9,7 @@ Automated Magnetism Analysis via Tensorial Interacting Spins (_AMATIS_) is a str
 
 The source code, the user manual and the material showcases can be found in GitHub: 
 
-    link: https://github.com/Haichang-Lu/AMATIS
+    https://github.com/Haichang-Lu/AMATIS
 
 Note: it is distributed under the GNU 2.0 license
 

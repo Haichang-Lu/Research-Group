@@ -33,11 +33,11 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-          link:
+        link:
           icon: graduation-cap
           icon_pack: fas
           text: see more
-          url: ../publication/BZ_filteirng
+          url: ../publication/BZ_filteirng/
   
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
