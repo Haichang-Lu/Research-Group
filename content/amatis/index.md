@@ -1,14 +1,17 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: _AMATIS_, an open source workflow for magentism analysis
+date: 2025-06-30
 ---
-
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Automated Magnetism Analysis via Tensorial Interacting Spins (_AMATIS_) is a structure to magnetism tool to predict the thermal equilibrium properties of magnets, developed by Haichang Lu of Beihang University. It is written in c++ and needs to compile with the Eigen package. Currently, it can interface only with the ad initio code VASP, but we are working on it to be compatible with any package that supports total energy calculations considering spin-orbit coupling. 
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+The source code, the user manual and the material showcases can be found in GitHub: 
+Note: it is distributed under the GNU 2.0 license
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+Anyone using the code for calculation and publication should cite the relevant paper: 
+
+"H. Lu, B. Deng, H. Katsumoto, J. Robertson, W. Zhao and S. Blugel, Automated Magnetism Analysis via the Effective Hamiltonian with Tensorial Interacting Spins, J name, (2025)."
+
+Anyone who is interested in redeveloping, commerical use should contact Haichang Lu via email: HaichangLu@buaa.edu.cn
