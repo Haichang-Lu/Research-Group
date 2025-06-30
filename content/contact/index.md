@@ -9,7 +9,10 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+        If you have any problems using AMATIS, you can send me an email, or try to reach me with the belowed address.
+        We are also recruiting new students. You are welcomed to send Ph.D., master opportunity enqueries about Lu's Group.
+         
+        
       email: HaichangLu@buaa.edu.cn
       #phone: 888 888 88 88
       address:
@@ -35,33 +38,33 @@ sections:
       autolink: true
     
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
+      #    # Enable CAPTCHA challenge to reduce spam?
+      #    captcha: false
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+#  - block: markdown
+#    content:
+#      title:
+#      subtitle: ''
+#      text:
+#    design:
+#      columns: '1'
+#      background:
+#        image: 
+#          filename: contact.jpg
+#          filters:
+#            brightness: 1
+#          parallax: false
+#          position: center
+#          size: cover
+#          text_color_light: true
+#      spacing:
+#        padding: ['20px', '0', '20px', '0']
+#      css_class: fullscreen
 ---

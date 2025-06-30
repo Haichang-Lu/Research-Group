@@ -73,4 +73,5 @@ user_groups:
   - Principal Investigator
 ---
 
-Haichang Lu is an Associate professor of Theoretical Modelling at the Fert Beijing Institute, MIIT Key Laboratory of Spintronics. His research interests include ab initio calculations, magnetic materials, high-throughput calculations, spin transport. He leads the Material Modelling group, which develops AMATIS.
+Haichang Lu is an Associate professor of Theoretical Modelling at the Fert Beijing Institute, MIIT Key Laboratory of Spintronics. His research interests include ab initio calculations, magnetic materials, high-throughput calculations, spin transport. He leads the Material Modelling group, which develops AMATIS. 
+Haichang teaches courses including: (1) Condensed Matter Theory and Calculation (graduate); (2) Seminar and tutoring of quantum mechanics (undergraduate) ; (3) Method of Mathematical Physics (undergraduate).
