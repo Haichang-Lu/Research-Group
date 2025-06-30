@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: AMATIS 
+        content: 'your personal tool of predicting complex magnetism'
         align: left
         background:
           image:
@@ -41,8 +41,8 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: AMATIS
+          url: ../amatis/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
