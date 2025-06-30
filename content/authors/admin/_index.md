@@ -29,13 +29,13 @@ interests:
 education:
   courses:
     - course: Research Associate
-      institution: University of Cambridge, PI: John Robertson
+      institution: University of Cambridge, PI John Robertson
       year: 2020
     - course: Ph.D. in Electronic Engineering
-      institution: University of Cambridge, PI: John Robertson
+      institution: University of Cambridge, PI John Robertson
       year: 2018
     - course: BSc in Electronics
-      institution: Peking University, PI: GuangShan Tian (School of Physics)
+      institution: Peking University, PI GuangShan Tian (School of Physics)
       year: 2014
 
 # Social/Academic Networking
