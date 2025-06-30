@@ -8,32 +8,12 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Material Modelling Group
-        content: School of Integrated Circuit Science and Engineering, Beihang University
-        align: center
-        background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-      - title: AMATIS 
+      - title: AMATIS
         content: 'your personal tool of predicting complex magnetism'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: amatis.jpg
             filters:
               brightness: 0.5
           position: center
@@ -43,6 +23,22 @@ sections:
           icon_pack: fas
           text: AMATIS
           url: ../amatis/
+      - title: Brillouin Zone filtering in Spintronics 
+        content: 'predicting the TMR of the magnetic tunnel junction'
+        align: left
+        background:
+          image:
+            filename: BZ_filtering.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+          link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: see more
+          url: ../publication/BZ_filteirng
+  
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
