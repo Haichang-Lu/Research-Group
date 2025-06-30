@@ -1,54 +1,18 @@
 ---
-title: Tour
-date: 2022-10-24
-
-type: landing
-
-sections:
-  - block: slider
-    content:
-      slides:
-      - title:  Material Modelling Group
-        content: School of Integrated Circuit Science and Engineering, Beihang University
-        align: center
-        background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: false
-      # Duration of transition between slides (in ms)
-      interval: 2000
+title: _AMATIS_: an open source workflow for magentism analysis
+date: 2025-07-20
 ---
+
+Automated Magnetism Analysis via Tensorial Interacting Spins (_AMATIS_) is a structure to magnetism tool to predict the thermal equilibrium properties of magnets, developed by Haichang Lu of Beihang University. It is written in c++ and needs to compile with the Eigen package. Currently, it can interface only with the ad initio code VASP, but we are working on it to be compatible with any package that supports total energy calculations considering spin-orbit coupling. 
+
+<!--more-->
+
+The source code, the user manual and the material showcases can be found in GitHub: 
+Note: it is distributed under the GNU 2.0 license
+
+Anyone using the code for calculation and publication should cite the relevant paper: 
+
+"H. Lu, B. Deng, H. Katsumoto, J. Robertson, W. Zhao and S. Blugel, Automated Magnetism Analysis via the Effective Hamiltonian with Tensorial Interacting Spins, J name, (2025)."
+
+Anyone who is interested in redeveloping, commerical use should contact Haichang Lu via email: HaichangLu@buaa.edu.cn
+

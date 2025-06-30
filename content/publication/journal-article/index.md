@@ -1,13 +1,19 @@
 ---
-title: "An example journal article"
+title: "Designing van der Waals magnetic tunnel junctions with high tunnel magnetoresistance via Brillouin zone ﬁltering"
 authors:
-- aaaaa
-- Robert Ford
+- K Li
+- Y Guo
+- J Robertson
+- W Zhao
+- H Lu
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+-
+-
+-
+-
+- "corresponding author"
 date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: "10.1039/d4nr02717e"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,10 +24,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "_Nanoscale_, **16**, 19228(2024)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Magnetic tunnel junctions (MTJs) consisting of two-dimensional (2D) van der Waals heterostructures have no inter-layer chemical bonds; therefore, their spin tunneling is determined solely by the Brillouin zone (BZ) ﬁltering eﬀect. To obtain high tunnel magnetoresistance (TMR), they should possess transversal momentum-resolved conduction channels for the electrodes and transmission channels for the barriers. Here, we investigate 2D magnets as electrodes whose Curie temperatures approach room temperature and also hexagonal 2D insulators as the barrier. Iron-based compounds such as FexGeTe2 (x = 3 and 4) are calculated to have high transmission coeﬃcients over the entire in-plane BZ for the majority spin channel, while this should only happen around Γ for the minority spin channel. Correspondingly, various 2H-type transition metal dichalcogenides (TMDs) are found to function eﬀectively as spin barriers, where electrons are only allowed to tunnel through them around the K and M points. BZ spin ﬁltering is conﬁrmed to be the major mechanism of the TMR eﬀect by the MTJ transport calculation using the nonequilibrium Green function method. Furthermore, the TMR is calculated to be nearly independent of the barrier layer thickness as the BZ ﬁltering is an interfacial eﬀect. This work sheds light on material selection procedures and designing ultra-thin and robust van der Waals MTJs.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

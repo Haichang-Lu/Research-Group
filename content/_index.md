@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Advanced
+        Material Modelling
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Material Modelling Group** belongs to the Fert Beijing Institute, School of Integrated Circuit Science and Engineering, Beihang University. Found in 2021, we are a group of people with open mind, welcoming various type of collaborations. We are the developing team of _AMATIS_, an automated workflow of predicting the magnetism with the spin effective Hamiltonian. We also specialize in material, device simulation. 
   
   - block: collection
     content:
