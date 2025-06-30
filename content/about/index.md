@@ -37,7 +37,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: see more
-          url: ../publication/BZ_filteirng/
+          url: ../publication/bz_filtering/
   
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
