@@ -11,22 +11,20 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
       email: HaichangLu@buaa.edu.cn
-      phone: 888 888 88 88
+      #phone: 888 888 88 88
       address:
-        office: No. 1 Buliding, 206
-        university: Beihang University
-        street: Xueyuan Rd No. 37
+        street: Beihang University, Xueyuan Rd No. 37
         city: Beijing
         postcode: '100191'
         country: China
         country_code: China
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building No 1 and take the sttairs to 206
+        latitude: '39.9849'
+        longitude: '116.3416'
+      directions: Enter Building No 1 and take the stairs to 206
       office_hours:
         - 'Monday-Friday 08:00 to 17:00'
-      appointment_url: 'https://calendly.com'
+      #appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas

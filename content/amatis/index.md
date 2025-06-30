@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title:  Material Modelling Group
+        content: School of Integrated Circuit Science and Engineering, Beihang University
         align: center
         background:
           image:
