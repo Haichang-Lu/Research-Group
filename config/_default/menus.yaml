@@ -16,7 +16,7 @@ main:
   - name: Events
     url: event
     weight: 40
-  - name: _AMATIS_
+  - name: AMATIS
     url: amatis
     weight: 50    
   - name: Publications
