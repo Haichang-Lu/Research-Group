@@ -13,7 +13,7 @@ sections:
       email: HaichangLu@buaa.edu.cn
       #phone: 888 888 88 88
       address:
-        street: Beihang University, Xueyuan Rd No. 37
+        street: Beihang University
         city: Beijing
         postcode: '100191'
         country: China
