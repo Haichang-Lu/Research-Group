@@ -11,7 +11,7 @@ sections:
         Advanced
         Material Modelling
       image:
-        filename: welcome.png
+        filename: welcome.jpg
       text: |
         <br>
         
