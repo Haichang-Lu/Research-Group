@@ -20,7 +20,7 @@ publishDate: "2021-09-24T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_ACS Appl. Mater. Interfaces, **13**, 47226 (2021)"
+publication: "_ACS Appl. Mater. Interfaces_, **13**, 47226 (2021)"
 publication_short: ""
 
 abstract: Two-dimensional hexagonal boron nitride (h-BN) is studied as a tunnel barrier in magnetic tunnel junctions (MTJs) as a possible alternative to MgO. The tunnel magnetoresistance (TMR) of such MTJs is calculated as a function of whether the interface involves the chemi- or physisorptive site of h-BN atoms on the metal electrodes, Fe, Co, or Ni. It is found that the physisorptive site on average produces higher TMR values, whereas the chemisorptive site has the greater binding energy but lower TMR. It is found that alloying the electrodes with an inert metal-like Pt can induce the preferred absorption site on Co to become a physisorptive site, enabling a higher TMR value. It is found that the choice of physisorptive sites of each element gives more Schottky-like dependence of their Schottky barrier heights on the metal work function.
