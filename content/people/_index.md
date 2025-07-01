@@ -14,7 +14,7 @@ sections:
           - Principal Investigator
           - PostDocs
           - Ph.D. Candidates
-          - Mater Students
+          - Master Students
           - Visitors
           - Alumni
       sort_by: Params.last_name
