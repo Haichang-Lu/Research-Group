@@ -13,15 +13,12 @@ main:
   - name: People
     url: people
     weight: 30
-  - name: Projects
-    url: project
-    weight: 40
   - name: AMATIS
     url: amatis
-    weight: 50    
+    weight: 40    
   - name: Publications
     url: publication
-    weight: 60
+    weight: 50
   - name: Contact
     url: contact
-    weight: 70
+    weight: 60
