@@ -13,7 +13,7 @@ sections:
         align: right
         background:
           image:
-            filename: amatis.jpg
+            filename: amatis.png
             filters:
               brightness: 0.5
           position: center
