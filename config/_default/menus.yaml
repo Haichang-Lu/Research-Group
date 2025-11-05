@@ -16,7 +16,7 @@ main:
   - name: AMATIS
     url: amatis
     weight: 40    
-  - name: Publications
+  - name: Selected Publications
     url: publication
     weight: 50
   - name: Contact

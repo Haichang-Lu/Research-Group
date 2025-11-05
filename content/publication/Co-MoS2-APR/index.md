@@ -13,7 +13,7 @@ author_notes:
 -
 - "corresponding author"
 date: "2025-09-09T00:00:00Z"
-doi: "10.1063/5.0272301"
+doi: "https://doi.org/10.1063/5.0272301"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-09-09T00:00:00Z"
