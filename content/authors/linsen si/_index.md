@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Boyang Deng
+title: Linsen Si
 
 # Full Name (for SEO)
-first_name: Boyang
-last_name: Deng
+first_name: Linsen
+last_name: Si
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. candidate
+role: Master student
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,20 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am always working hard.
+bio: Physics is as easy as washing your hand
 
 interests:
-  - Spin Interactions
-  - Computational Magnetisms
-  - Magnetic Heterostructures
+  - Quantum Statistical Mechanics
+  - Quantum System Simulation
 
 education:
   courses:
 #    - course: PhD in Artificial Intelligence
 #      institution: Stanford University
 #      year: 2012
-    - course: Master candidate in Material Science
-      institution: Beihang University
-      year: 2024
-    - course: BSc in Material Science
-      institution: Xiamen University
-      year: 2022
+    - course: BEng in Microelectronics Science and Engineering
+      institution: Beijing Institute of Technology
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:beyouengd@buaa.edu.cn'
+    link: 'mailto:sy2541226@buaa.edu.cn'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
@@ -61,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'beyouengd@buaa.edu.cn'
+email: 'sy2541226@buaa.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -69,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Candidates
+  - Master Students
 ---
 
-Boyang Deng is a Ph.D. candidate in Lu’s Group. He specializes in magnetic materials, group analysis, high-throughput calculations, interfacial effects, first-principles calculations and spin transport.
+Linsen Si is a master student in Lu's Group. He specializes in spin system simulations using the monte carlo method.
