@@ -15,13 +15,13 @@ sections:
           image:
             filename: amatis.png
             filters:
-              brightness: 0.5
+              brightness: 0.7
           position: center
           color: '#333'
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: AMATIS
+          text: see more
           url: ../amatis/
       - title: Brillouin Zone filtering in Spintronics 
         content: 'predicting the TMR of the magnetic tunnel junction'
